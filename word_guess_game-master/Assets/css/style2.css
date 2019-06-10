@@ -1,0 +1,85 @@
+
+  
+  #can_you_read {
+    font-family:  Comic Sans, Arial, "helvetica Neue", Helvetica, sans-serif;
+    font-size:  36px;
+    color:  blue;
+    text-align: center;
+    }
+    
+  #press_key {
+    font-family:  Comic Sans, Arial, "helvetica Neue", sans-serif;
+    font-size:  22px;
+    color: red;
+    text-align: center;
+    text-justify: inherit;
+    }
+    
+  #wins {
+    font-family:  Comic Sans, Arial, "helvetica Neue", sans-serif;
+    font-size:  22px;
+    color: red;
+    float: left;
+    text-justify: inherit
+    }
+    
+  #losses {
+    font-family:  Comic Sans, Arial, "helvetica Neue", sans-serif;
+    font-size:  22px;
+    color: red;
+    text-align:  right;
+    text-justify: inherit;
+    }
+    
+  #remain {
+    font-family:  Comic Sans, Arial, "helvetica Neue", sans-serif;
+    font-size:  22px;
+    color: red;
+    text-align: left; 
+    text-justify: inherit;
+    float: right;   
+    }
+    
+  #letters_used {
+    font-family:  Comic Sans, Arial, "helvetica Neue", sans-serif;
+    font-size:  22px;
+    color: red;
+    text-align:  right;
+    text-justify: inherit;
+    float:  left;
+    }
+    
+   .legend {
+      font-family:  comic Sans, Arial, "helvetica Neue", sans-serif;
+      font-size:  18px;
+      color:  blue;
+      }
+      
+   .question {
+      font-family:  comic sans, Arial,"helvetica Neue" , sans-serif;
+      font-size:  30px;
+      color:  blue;
+      }
+
+    .answer {
+        font-family: comic sans, Arial, "helvetica Neue", sans-serif;
+        font-size:  30px;
+        color:  blueviolet;
+    }
+      
+   .notesimg {
+        border: 5px;
+        color:  black;
+        height: 125px;
+        width:  175px;
+        }
+        
+  .input {
+        border:1px;
+        color:black;
+        height: 20px;
+        width:  20px;
+        border: 2px;
+
+        }
+    

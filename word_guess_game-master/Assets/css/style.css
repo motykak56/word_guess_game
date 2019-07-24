@@ -1,0 +1,63 @@
+
+body{
+    background-color: rgb(141, 186, 231);
+    background-image: 100%;
+    text-align: center;
+
+}
+
+.container1{
+    background-color:blue;
+    color: white; 
+    text-align: center;  
+}
+
+#choose{
+    color:blue;
+    text-emphasis-style: bold;
+    text-align: center;
+    text-size-adjust: large;
+
+}
+#animal1{
+    float:left;
+    border-color: black;
+    border-radius: 0.5rem;
+
+}
+#animal2{
+    float: right;
+    border-color: black;
+    border-radius: 0.5rem;
+}
+
+#body1{
+    background-color: blue;
+    text-align: center;
+    text-size-adjust: medium;
+    color: white;
+    
+}
+#body2{
+    color: white;
+    text-align: center;
+    text-size-adjust: medium;
+
+}
+#body3{
+    background-color: blue;
+    text-align: center;
+    text-size-adjust: medium;
+    color: white;
+}
+#body4{
+    color:white;
+    text-align: center;
+    text-size-adjust: medium;
+}
+#body5{
+    background-color: blue;
+    text-align: center;
+    text-size-adjust: medium;
+    color: white;
+}
